@@ -1,0 +1,49 @@
+a.borde_link{
+border:1px solid #FFFF00;
+padding:5px;
+
+}
+
+a:hover.borde_link{
+	
+border:1px solid #04B404;
+
+
+}
+
+body > header{ margin-top: 60px; 
+
+padding:20px;
+}
+
+section article p{
+padding: 2em 1em;
+margin-bottom: 2em;
+background-color: #e9ecef;
+border-radius: 1em;
+}
+
+article{margin:20px;}
+
+h1{
+font-family: 'Do Hyeon', sans-serif;
+color:#088A29;	
+
+}
+
+.h1{font-family: 'Do Hyeon', sans-serif;
+		margin:20px;
+	padding:20px;
+	background: #ccc;
+  	border: 1px solid rgba(0,0,0,0.15);
+  	border-radius: 4px;
+  	transition: all 0.3s ease-out;
+  	box-shadow:
+    inset 0 1px 0 rgba(255,255,255,0.5),
+    0 2px 2px rgba(0,0,0,0.3),
+    0 0 4px 1px rgba(0,0,0,0.2);
+	color:#666;
+
+  /* Font styles */ 
+  	text-shadow: 0 1px rgba(255,255,255,0.7);  
+}
